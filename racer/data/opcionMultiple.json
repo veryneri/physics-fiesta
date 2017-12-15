@@ -1,0 +1,49 @@
+{  
+   "opcionMultiple": [
+		{
+			"tema": "enzimas",
+			"preguntas": [
+            {  
+                "correcta":"catalizador",
+                "pregunta":"Una sustancia que acelera una reacción química, y que no es un reactivo, se llama",
+                "respuestas":[  
+                    "inhibidor",
+                    "catalizador",
+                    "sitio activo",
+                    "sustrato"
+                ]
+            },
+            {  
+                "correcta":"enzimas",
+                "pregunta":"Los catalizadores de las reacciones bioquímicas que suceden en los organismos vivos se conocen como",
+                "respuestas":[  
+                    "enzimas",
+                    "carbohidratos",
+                    "lipidos",
+                    "acido nucleico"
+                ]
+            },
+            {  
+                 "correcta":"energía de activación",
+                 "pregunta":"Es la cantidad de energía, que se debe agregar a una reacción para que esta comience",
+                 "respuestas":[  
+                    "energía cinetica",
+                    "energía potencial",
+                    "energía de activación",
+                    "energía interna"
+                 ]
+            },
+            {  
+                 "correcta":"alta especificidad",
+                 "pregunta":"Una caracteristica de las enzimas es",
+                 "respuestas":[  
+                    "alta especificidad",
+                    "alteran el producto de una reaccion",
+                    "no afectan la energia de activacion",
+                    "baja especificidad"
+                 ]
+            }
+        ]
+		}
+	]
+}
