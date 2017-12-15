@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Memorama</title>
+	<link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+	<header class="ui-header">
+		<div class="ui-header-content g-text-left g-pull-left" data-component="multicontent">
+			<a data-component="back-button" target="_blank" href="#" class="ui-header-link ui-back-button is-hidden">
+				<i class="ui-header-link-icon ui-icon-circle-left"></i>
+				REGRESAR
+			</a>
+		</div>
+		<div class="ui-header-content g-text-right g-pull-right">
+			<a target="_blank" href="#" class="ui-header-link-icon ui-header-link">
+				<i class="ui-icon-github4">
+				</i> MEMORAMA</a>
+		</div>
+	</header>
+	<div class="ui-page ui-page--primary" data-page-name="initial" data-page-index="0">
+		<div class="ui-page-content g-text-center">
+			<h1>Memorama</h1>
+			<div class="l-max-w">
+				<p>Seleccciona un tema para empezar:</p>
+				<form data-component="initial-form">
+					<div class="ui-inputs-wrap">
+						<select	name="level" class="ui-inputs">
+							<option value="" selected="selected">Seleciona un tema...</option>
+						</select>
+						<i class="ui-icon-circle-down"></i>
+					</div>
+					<button name="start" class="ui-inputs">Jugar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="ui-page ui-page--secondary" data-page-name="game" data-page-index="1">
+		<div class="ui-page-content g-text-center">
+			<table class="ui-board" data-component="board">
+				<tbody>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	<div class="ui-page ui-page--tertiary" data-page-name="win" data-page-index="2">
+		<div class="ui-page-content g-text-center l-max-w">
+			<h2>BIEN HECHO!</h2>
+			<p>Comparte tu logro!</p>
+			<ul class="g-clear-list g-text-center ui-social-list">
+				<li class="g-inline-list">
+					<a href="http://www.twitter.com/share?text=Complete el tema en Memoria Bioquimica - &amp;url=http://uia.mx" target="_blank" class="ui-social-list-link">
+						<i class="ui-icon ui-icon-twitter"></i>
+					</a>
+				</li>
+				<li class="g-inline-list">
+					<a href="http://facebook.com/sharer/sharer.php?url=http://uia.mx" target="_blank" class="ui-social-list-link">
+						<i class="ui-icon ui-icon-facebook"></i>
+					</a>
+				</li>
+			</ul>
+			<button data-component="next-level" name="start" class="ui-inputs ui-inputs__text-toggle is-active">Jugar otra vez!</button>
+		</div>
+	</div>
+
+	<footer class="ui-footer">
+		created with <!-- <span class="ui-footer-icon"><i class="ui-icon ui-icon-heart"></i></span> --> by <a class="ui-footer-username" href="http://twitter.com/elmismisimoneri" target="_blank">@elmismisimoneri</a>
+	</footer>
+
+	<script src="./js/jquery.min.js"></script>
+	<script src="./js/main.js"></script>
+</body>
+</html>

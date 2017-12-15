@@ -1,0 +1,182 @@
+[
+	{
+		"tema": "Carbohidratos",
+		"cartas": [
+			[
+				{ "contenido": "formula general","tipo":"texto" },
+				{ "contenido": "(CH2O)n","tipo":"texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "monosacaridos", "tipo": "texto" },
+				{ "contenido": "Poseen 4, 5, 6 carbonos", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "disacaridos", "tipo": "texto" },
+				{ "contenido": "formados por 2 monosacaridos", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "polisacaridos", "tipo": "texto" },
+				{ "contenido": "formados por varios sacaridos", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "principales polisacaridos", "tipo": "texto" },
+				{ "contenido": "celulosa, almidon", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "principales disacaridos", "tipo": "texto" },
+				{ "contenido": "lactosa, sacarosa", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "enlace glucosidico", "tipo": "texto" },
+				{ "contenido": "union de monosacaridos", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "composicion", "tipo": "texto" },
+				{ "contenido": "C, H y O", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "carbohidrato mas abundante", "tipo": "texto" },
+				{ "contenido": "glucosa", "tipo": "texto" }
+			]
+		]
+	},
+	{
+		"tema": "Proteinas",
+		"cartas": [
+			[
+				{ "contenido": "formula general","tipo":"texto" },
+				{ "contenido": "(CH2O)n","tipo":"texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			]
+		]
+	},
+	{
+		"tema": "Lipidos",
+		"cartas": [
+			[
+				{ "contenido": "formula general","tipo":"texto" },
+				{ "contenido": "(CH2O)n","tipo":"texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			]
+		]
+	},
+	{
+		"tema": "Aminoacidos",
+		"cartas": [
+			[
+				{ "contenido": "formula general","tipo":"texto" },
+				{ "contenido": "(CH2O)n","tipo":"texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			],
+			[
+				{ "contenido": "funcion", "tipo": "texto" },
+				{ "contenido": "principal fuente de energia", "tipo": "texto" }
+			]
+		]
+	}
+]
